@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="PNOS - Konsequent, Sozial, National !">
+    <meta name="author" content="PNOS">    
+	<meta name="D.C.Title" content="PNOS - Konsequent, Sozial, National !">
+	<meta name="D.C.Creator" content="PNOS">
+	<meta name="D.C.Description" content="PNOS - Konsequent, Sozial, National !">
+	<meta name="D.C.Publisher" content="PNOS">
+	<meta name="D.C.Type" content="Text">
+	<meta name="D.C.Identifier" content="http://www.pnos.ch">
+	<meta name="D.C.Rights" content="Copyright, PNOS 2016">
+	<meta name="content-language" content="de">
+	<meta name="robots" content="index,follow">
+	<meta name="description" content="Die Partei National Orientierter Schweizer (PNOS) - Konsequent, Sozial, National !">
+	<meta name="keywords" content="pnos, partei, national, orientierter, schweizer, parteiprogramm, aktion, aktuell, albaner, althof, amerika, amerikanismus, anti, antifa, antisemit, antisemitismus, asyl, asylanten, asylschwindel, ausländer, ausländerbestand, ausländergewalt, napo, ausserparlamentarische, opposition, bauern, beitreten, basisdemokratisch, beitritt, deutsch, drogen, economic, eidgenössisch, eu, europa, flugblatt, flugblätter, fortschrittlich, forum, frei, frieden, global, globalisierung, heimat, heimatschutz, imperialismus, iwf, kinder, kinderschänder, kontakt, krieg, kriminaltourismus, land, material, medien, messerstecherei, modern, morgenstern, mutterpsrache, napo, nation, national, nationale, nationalismus, nationalistisch, nationalrat, nato, naturschutz,   podien, podium, politik, programm, rechts, revolution, revolutionär, rot, schule, schweiz, schweizer, schweizerisch, selbstbewusst, selbstbewusste, sozial, sozialistisch, spenden, ständerat, statistik, stimme, stolz, svp, uno, usa, vaterland, vaterländer, veranstaltungen, vision, volk, völkisch, volksstaat, vorstand, vortrag, world, zeitgeist, zeitung, zeitungen, zinsen, zukunft">    
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>    
+    <script src="js/s/init.js"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">    
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <title>PNOS - Konsequent, Sozial, National !</title>
+</head>
+
+<body>
+
+    <nav class="navbar-default navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar-1">
+                    <span class="sr-only">Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://www.pnos.ch">
+                    <img src="images/logo_pnos.png" alt="pnos">
+                </a>
+            </div>
+            <div class="collapse navbar-collapse" id="main-navbar-1">
+                <ul class="nav navbar-nav">
+                	<li><a href="?pid=1">AKTUELLES</a></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PARTEI <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="?pid=500">Landesleitung</a></li><li><a href="?pid=3">Beschrieb</a></li><li><a href="?pid=4">Parteiprogramm</a></li><li><a href="?pid=510">Mitglied werden</a></li><li><a href="?pid=509">Ahnensturm</a></li><li><a href="?pid=514">Spenden</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MEDIEN <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="?pid=507">Harus</a></li><li><a href="?pid=508">Materialdienst</a></li><li><a href="?pid=515">Veranstaltungen</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">SEKTIONEN <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="?pid=106">Aargau</a></li><li><a href="?pid=513">Appenzell</a></li><li><a href="?pid=101">Basel</a></li><li><a href="?pid=100">Bern</a></li><li><a href="?pid=105">Glarus</a></li><li><a href="?pid=511">Schaffhausen</a></li><li><a href="?pid=516">Solothurn</a></li><li><a href="?pid=102">St. Gallen</a></li><li><a href="?pid=103">Thurgau</a></li><li><a href="?pid=104">Zürich</a></li><li><a href="?pid=512">Zentralschweiz</a></li><li><a href="?pid=107">Westschweiz</a></li></ul></li><li><a href="?pid=2">KONTAKT</a></li>                                  
+                </ul>                
+                <ul class="nav navbar-nav navbar-left social">
+                    <li><a href="https://www.facebook.com/PNOS-Die-Partei-der-Eidgenossen-1535276726770711/" title="Facebook" target="_blank"><i class="fa fa-lg fa-facebook-square"></i></a></li>
+                    <li><a href="https://twitter.com/pnosofficial/" title="Twitter" target="_blank"><i class="fa fa-lg fa-twitter"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCxfeqymaf4zGEVpUadI1xWg" title="Youtube" target="_blank"><i class="fa fa-lg fa-youtube-play"></i></a></li>
+                </ul>                 
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+		<h2>Sektion Basel</h2>	<div class="row">		<div class="col-sm-8">			<div class="panel panel-default">				<div class="panel-body">					<div class="clearfix"> 					<img src="images/sections/f8ccea46-071b-480b-b684-f62341437461.gif" class="pull-right">					<p>Der Entschluss zur Gründung der Sektion Baselland/Baselstadt entstand unter dem Eindruck der wachsenden Missstände in diesen beiden Halbkantonen. Die aktuelle Situation hat mittlerweile unzumutbare Zustände angenommen. Die steigende Jugendkriminalität und die Problematik des Drogenhandels sind klare Ursachen der fehlgeschlagenen Ausländer- und Integrationspolitik.<br><br>
+
+Es ist nun an der Zeit, grundlegende Änderungen herbeizuführen, um zu verhindern, dass Zustände wie in unseren Nachbarländern auch bei uns zur Tagesordnung werden.<br><br>
+
+Das Anliegen unserer Sektion liegt in erster Linie in der Aufklärung der Bevölkerung über die Missstände, die von Medien und Politikern gerne totgeschwiegen werden.</p>					</div>				</div>			</div>		</div>		 <div class="col-sm-4"><div class="media">  <div class="media-left media-top">      <img class="media-object" style="border: 1px solid #e0e0e0" src="images/profiles/0665ba74-d9fe-4a0c-9c43-041eb92ccebe.jpg" alt="">  </div>  <div class="media-body">    <h4 class="media-heading">Roland Nägeli</h4>    <div>Vorsitzender Kanton Basel Land/Stadt</div>    <div><a href="mailto:basel@pnos.ch">basel@pnos.ch</a></div>  </div></div>		</div>	</div>	<div class="row">		<div class="col-sm-8">			<h3>Berichte der Sektion</h3>			<div id="id_articles" filter="101" hide-small-icon="1" >			</div>			<div align="center">		  		<a class="btn btn-danger btn-lg" href="javascript:void()" onclick="cx_loadMore()">ÄLTERE BERICHTE</a>		  		<p>&nbsp;</p>			</div>		</div>		<div class="col-sm-4">		</div"></div><script src="js/s/a.js"></script>        <footer>			
+            <div class="row">
+                <div class="col-lg-12">
+       	        	<hr/>
+                    <p>&copy; Partei National Orientierter Schweizer (PNOS) 2016</p>
+                </div>
+            </div>
+        </footer>
+    </div>    
+</body>
+
+</html>

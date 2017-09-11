@@ -1,0 +1,87 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="PNOS - Konsequent, Sozial, National !">
+    <meta name="author" content="PNOS">    
+	<meta name="D.C.Title" content="PNOS - Konsequent, Sozial, National !">
+	<meta name="D.C.Creator" content="PNOS">
+	<meta name="D.C.Description" content="PNOS - Konsequent, Sozial, National !">
+	<meta name="D.C.Publisher" content="PNOS">
+	<meta name="D.C.Type" content="Text">
+	<meta name="D.C.Identifier" content="http://www.pnos.ch">
+	<meta name="D.C.Rights" content="Copyright, PNOS 2016">
+	<meta name="content-language" content="de">
+	<meta name="robots" content="index,follow">
+	<meta name="description" content="Die Partei National Orientierter Schweizer (PNOS) - Konsequent, Sozial, National !">
+	<meta name="keywords" content="pnos, partei, national, orientierter, schweizer, parteiprogramm, aktion, aktuell, albaner, althof, amerika, amerikanismus, anti, antifa, antisemit, antisemitismus, asyl, asylanten, asylschwindel, ausländer, ausländerbestand, ausländergewalt, napo, ausserparlamentarische, opposition, bauern, beitreten, basisdemokratisch, beitritt, deutsch, drogen, economic, eidgenössisch, eu, europa, flugblatt, flugblätter, fortschrittlich, forum, frei, frieden, global, globalisierung, heimat, heimatschutz, imperialismus, iwf, kinder, kinderschänder, kontakt, krieg, kriminaltourismus, land, material, medien, messerstecherei, modern, morgenstern, mutterpsrache, napo, nation, national, nationale, nationalismus, nationalistisch, nationalrat, nato, naturschutz,   podien, podium, politik, programm, rechts, revolution, revolutionär, rot, schule, schweiz, schweizer, schweizerisch, selbstbewusst, selbstbewusste, sozial, sozialistisch, spenden, ständerat, statistik, stimme, stolz, svp, uno, usa, vaterland, vaterländer, veranstaltungen, vision, volk, völkisch, volksstaat, vorstand, vortrag, world, zeitgeist, zeitung, zeitungen, zinsen, zukunft">    
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>    
+    <script src="js/s/init.js"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">    
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <title>PNOS - Konsequent, Sozial, National !</title>
+</head>
+
+<body>
+
+    <nav class="navbar-default navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar-1">
+                    <span class="sr-only">Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://www.pnos.ch">
+                    <img src="images/logo_pnos.png" alt="pnos">
+                </a>
+            </div>
+            <div class="collapse navbar-collapse" id="main-navbar-1">
+                <ul class="nav navbar-nav">
+                	<li><a href="?pid=1">AKTUELLES</a></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PARTEI <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="?pid=500">Landesleitung</a></li><li><a href="?pid=3">Beschrieb</a></li><li><a href="?pid=4">Parteiprogramm</a></li><li><a href="?pid=510">Mitglied werden</a></li><li><a href="?pid=509">Ahnensturm</a></li><li><a href="?pid=514">Spenden</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MEDIEN <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="?pid=507">Harus</a></li><li><a href="?pid=508">Materialdienst</a></li><li><a href="?pid=515">Veranstaltungen</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">SEKTIONEN <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="?pid=106">Aargau</a></li><li><a href="?pid=513">Appenzell</a></li><li><a href="?pid=101">Basel</a></li><li><a href="?pid=100">Bern</a></li><li><a href="?pid=105">Glarus</a></li><li><a href="?pid=511">Schaffhausen</a></li><li><a href="?pid=516">Solothurn</a></li><li><a href="?pid=102">St. Gallen</a></li><li><a href="?pid=103">Thurgau</a></li><li><a href="?pid=104">Zürich</a></li><li><a href="?pid=512">Zentralschweiz</a></li><li><a href="?pid=107">Westschweiz</a></li></ul></li><li><a href="?pid=2">KONTAKT</a></li>                                  
+                </ul>                
+                <ul class="nav navbar-nav navbar-left social">
+                    <li><a href="https://www.facebook.com/PNOS-Die-Partei-der-Eidgenossen-1535276726770711/" title="Facebook" target="_blank"><i class="fa fa-lg fa-facebook-square"></i></a></li>
+                    <li><a href="https://twitter.com/pnosofficial/" title="Twitter" target="_blank"><i class="fa fa-lg fa-twitter"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCxfeqymaf4zGEVpUadI1xWg" title="Youtube" target="_blank"><i class="fa fa-lg fa-youtube-play"></i></a></li>
+                </ul>                 
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+		<h2>PNOS – die Partei der Eidgenossen</h2>    <div class="row">	    <div class="col-md-7"><div class="panel panel-default">	<div class="panel-body">
+                  
+<div class="clearfix">
+  <img src="images/pnos-theme.jpg" class="pull-right">
+<p>Die PNOS (Partei National Orientierter Schweizer) ist ein Zusammenschluss von politisch engagierten Männern und Frauen, welche entschlossen sind, für die Zukunft ihres Heimatlandes einzutreten und die Probleme unserer heutigen Zeit bei den Wurzeln anzupacken.</p>
+
+<p>Die PNOS ist die Partei des modernen Nationalismus, da sie sich als einzige der nationalistischen Parteien der Schweiz offen zu jenen Grundsätzen bekennt, welche für ein gesichertes Fortbestehen der Schweiz als Staat des Schweizer Volkes unabdingbar sind. Mit ihrer Forderung nach ethnischer und kultureller Geschlossenheit des Volkes, mit ihrer Forderung nach klarer Trennung von Wirtschaft und Politik, der Bekämpfung globalistischer Vereinigungen und der Forderung nach Abschaffung der Zins- und Kreditwirtschaft stellt die PNOS die einzige wirkliche nationalistische Alternative in unserem Land dar.</p>
+
+<p>Die PNOS hat es sich zum Ziel gesetzt, eine neue und auch wirklich neuartige politische Kraft in der Schweiz zu werden. Sie bewegt sich nicht in stupidem rechts/links-Denken, sondern gibt mit ihrem Programm Antworten auf alle wichtigen Fragen unserer Zeit, und zwar ohne irgendwelche Umschweife. Die PNOS strebt eine ganzheitliche Neuordnung des Staates an, die Errichtung eines echten Volkstaats, in welchem Eidgenossen leben und gedeihen können, befreit von Globalisierungswahn, kapitalistischer Ausbeutung, Überfremdung, Umwelt- und Familienzerstörung.
+Das politische Programm der PNOS ist einzigartig in der Schweiz, da es als einziges konsequent alle Probleme unseres Landes und deren Ursachen beim Namen nennt, und es ist einzigartig, weil es Alternativen zum derzeitigen Zustand entwirft und somit für die Zukunft des Schweizer Volkes echte Perspektiven schafft.</p>
+
+<p>Die PNOS stellt das Volk in das Zentrum ihres politischen Strebens, nicht etwa aus Fremdenfeindlichen Motiven heraus, sondern weil sie erkannt hat, dass das Überleben der Völker Europas von zentraler Wichtigkeit für das Fortbestehen von Europa und der Schweiz selbst ist. Denn ohne Völker wird es keine Vielfalt von Kulturen mehr geben und ohne Kulturvielfalt werden Landesgrenzen bedeutungslos. Falls dies eintritt, haben diejenigen, die alle und alles gleichmachen und gleichschalten wollen, die kapitalistischen Wirtschaftsmachthaber, welche gerade heute so wie nie zuvor die Weltherrschaft anstreben, gewonnen.</p>
+
+<p>Die PNOS wehrt sich dagegen, dass aus Europa ein zweites Amerika gemacht werden soll. Deshalb fordert sie den echten Volksstaat in der Schweiz und tritt entschieden gegen die heuchlerischen Phrasen von Multikultur und totaler Vermischung aller Völker ein, welche nur den globalistischen Plan zur Auslöschung aller Völker und Kulturen bemänteln sollen.</p>
+
+<p>Die PNOS fordert eine Schweiz, die hauptsächlich von Eidgenossen besiedelt, von Eidgenossen bewohnt und regiert wird. Eine Schweiz, welche ihre ganz eigene, in Jahrhunderten gewachsene Kultur pflegt und lebt und es nicht nötig hat, Mülleimerkultur aus Übersee zu übernehmen. Eine Schweiz, welche wie von alters her, fest auf den Beinen ihrer eigenen Schaffenskraft steht und sich nicht von internationalen Verbrechervereinen abhängig macht. Eine Schweiz, in welcher eine echte Verbindung von Volk und Staatsführung besteht.</p>
+
+</div>                   </div></div>	    </div>	    <div class="col-lg-5">	    </div>    </div>        <footer>			
+            <div class="row">
+                <div class="col-lg-12">
+       	        	<hr/>
+                    <p>&copy; Partei National Orientierter Schweizer (PNOS) 2016</p>
+                </div>
+            </div>
+        </footer>
+    </div>    
+</body>
+
+</html>

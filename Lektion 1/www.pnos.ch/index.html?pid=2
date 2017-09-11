@@ -1,0 +1,192 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">    
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="PNOS - Konsequent, Sozial, National !">
+    <meta name="author" content="PNOS">    
+	<meta name="D.C.Title" content="PNOS - Konsequent, Sozial, National !">
+	<meta name="D.C.Creator" content="PNOS">
+	<meta name="D.C.Description" content="PNOS - Konsequent, Sozial, National !">
+	<meta name="D.C.Publisher" content="PNOS">
+	<meta name="D.C.Type" content="Text">
+	<meta name="D.C.Identifier" content="http://www.pnos.ch">
+	<meta name="D.C.Rights" content="Copyright, PNOS 2016">
+	<meta name="content-language" content="de">
+	<meta name="robots" content="index,follow">
+	<meta name="description" content="Die Partei National Orientierter Schweizer (PNOS) - Konsequent, Sozial, National !">
+	<meta name="keywords" content="pnos, partei, national, orientierter, schweizer, parteiprogramm, aktion, aktuell, albaner, althof, amerika, amerikanismus, anti, antifa, antisemit, antisemitismus, asyl, asylanten, asylschwindel, ausländer, ausländerbestand, ausländergewalt, napo, ausserparlamentarische, opposition, bauern, beitreten, basisdemokratisch, beitritt, deutsch, drogen, economic, eidgenössisch, eu, europa, flugblatt, flugblätter, fortschrittlich, forum, frei, frieden, global, globalisierung, heimat, heimatschutz, imperialismus, iwf, kinder, kinderschänder, kontakt, krieg, kriminaltourismus, land, material, medien, messerstecherei, modern, morgenstern, mutterpsrache, napo, nation, national, nationale, nationalismus, nationalistisch, nationalrat, nato, naturschutz,   podien, podium, politik, programm, rechts, revolution, revolutionär, rot, schule, schweiz, schweizer, schweizerisch, selbstbewusst, selbstbewusste, sozial, sozialistisch, spenden, ständerat, statistik, stimme, stolz, svp, uno, usa, vaterland, vaterländer, veranstaltungen, vision, volk, völkisch, volksstaat, vorstand, vortrag, world, zeitgeist, zeitung, zeitungen, zinsen, zukunft">    
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.min.js"></script>    
+    <script src="js/s/init.js"></script>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">    
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+    <title>PNOS - Konsequent, Sozial, National !</title>
+</head>
+
+<body>
+
+    <nav class="navbar-default navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar-1">
+                    <span class="sr-only">Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="http://www.pnos.ch">
+                    <img src="images/logo_pnos.png" alt="pnos">
+                </a>
+            </div>
+            <div class="collapse navbar-collapse" id="main-navbar-1">
+                <ul class="nav navbar-nav">
+                	<li><a href="?pid=1">AKTUELLES</a></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">PARTEI <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="?pid=500">Landesleitung</a></li><li><a href="?pid=3">Beschrieb</a></li><li><a href="?pid=4">Parteiprogramm</a></li><li><a href="?pid=510">Mitglied werden</a></li><li><a href="?pid=509">Ahnensturm</a></li><li><a href="?pid=514">Spenden</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">MEDIEN <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="?pid=507">Harus</a></li><li><a href="?pid=508">Materialdienst</a></li><li><a href="?pid=515">Veranstaltungen</a></li></ul></li><li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">SEKTIONEN <span class="caret"></span></a><ul class="dropdown-menu"><li><a href="?pid=106">Aargau</a></li><li><a href="?pid=513">Appenzell</a></li><li><a href="?pid=101">Basel</a></li><li><a href="?pid=100">Bern</a></li><li><a href="?pid=105">Glarus</a></li><li><a href="?pid=511">Schaffhausen</a></li><li><a href="?pid=516">Solothurn</a></li><li><a href="?pid=102">St. Gallen</a></li><li><a href="?pid=103">Thurgau</a></li><li><a href="?pid=104">Zürich</a></li><li><a href="?pid=512">Zentralschweiz</a></li><li><a href="?pid=107">Westschweiz</a></li></ul></li><li><a href="?pid=2">KONTAKT</a></li>                                  
+                </ul>                
+                <ul class="nav navbar-nav navbar-left social">
+                    <li><a href="https://www.facebook.com/PNOS-Die-Partei-der-Eidgenossen-1535276726770711/" title="Facebook" target="_blank"><i class="fa fa-lg fa-facebook-square"></i></a></li>
+                    <li><a href="https://twitter.com/pnosofficial/" title="Twitter" target="_blank"><i class="fa fa-lg fa-twitter"></i></a></li>
+                    <li><a href="https://www.youtube.com/channel/UCxfeqymaf4zGEVpUadI1xWg" title="Youtube" target="_blank"><i class="fa fa-lg fa-youtube-play"></i></a></li>
+                </ul>                 
+            </div>
+        </div>
+    </nav>
+
+    <div class="container">
+		<h2>PNOS Kontaktinformationen</h2>    <div class="row">	    <div class="col-md-7"><div class="panel panel-default">	<div class="panel-body"><h3>Medienanfragen</h3>
+
+<div>Dominic Lüthard</div>
+<div>Mediensprecher</div>
+<div>Tel: +41 78 847 34 32</div>
+<div><a href="mailto:pressedienst@pnos.ch">pressedienst@pnos.ch</a></div>
+
+<h3>Informationen</h3>
+
+<a href="mailto:info@pnos.ch">info@pnos.ch</a>
+
+<h3>Sektionen</h3>
+
+<div class="media">
+<div class="media-body"><h4 class="media-heading">Aargau</h4>
+<div><a href="mailto:aargau@pnos.ch">aargau@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/6368581c-bddc-4d58-b757-c2c272cd77f5.jpg" alt="Florian Signer" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">Appenzell</h4><div>Florian Signer</div><div>Vorsitzender</div>
+<div><a href="mailto:appenzell@pnos.ch">appenzell@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/0665ba74-d9fe-4a0c-9c43-041eb92ccebe.jpg" alt="Roland Nägeli" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">Basel</h4><div>Roland Nägeli</div><div>Vorsitzender</div>
+<div><a href="mailto:basel@pnos.ch">basel@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/c1403363-fb9f-4d60-ae69-1c2667f0571c.jpg" alt="Yannic Nuoffer" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">Bern</h4><div>Yannic Nuoffer</div><div>Vorsitzender</div><div>Verantwortlich für Berner Mittelland, Berner Seeland und Berner Oberland</div>
+<div><a href="mailto:bern@pnos.ch">bern@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/dac61fa9-395f-4475-b60d-17c4a27cb404.jpg" alt="Dominic Lüthard" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">Bern</h4><div>Dominic Lüthard</div><div>Vorsitzender</div><div>Verantwortlich für Oberaargau und Emmental</div>
+<div><a href="mailto:oberaargau@pnos.ch">oberaargau@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/ab260964-7a43-44f3-993d-d061f2204573.jpg" alt="Nicolas Grunder" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">Bern</h4><div>Nicolas Grunder</div><div>Stv. Vorsitzender</div><div>Verantwortlich für Oberaargau und Emmental</div>
+<div><a href="mailto:n.grunder@pnos.ch">n.grunder@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/acb1e67b-4313-4c16-8f56-399dad550e26.jpg" alt="Flo Gerber" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">Glarus</h4><div>Flo Gerber</div><div>Vorsitzender</div>
+<div><a href="mailto:f.gerber@pnos.ch">f.gerber@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-body"><h4 class="media-heading">Schaffhausen</h4>
+<div><a href="mailto:schaffhausen@pnos.ch">schaffhausen@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/9487705c-d4de-4d9b-9f79-5a8cca677b58.jpg" alt="Joël Uhlmann" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">Solothurn</h4><div>Joël Uhlmann</div><div>Vorsitzender</div>
+<div><a href="mailto:solothurn@pnos.ch">solothurn@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/ec412058-fea7-40d0-8543-f8d870b71317.jpg" alt="Mardel Eggers" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">Solothurn</h4><div>Marcel Eggers</div><div>Stv. Vorsitzender</div>
+<div><a href="mailto:solothurn@pnos.ch">solothurn@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/ff9a2cad-4fdd-4c94-bf47-511e371c7c7e.jpg" alt="Tamara Klingler" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">St. Gallen</h4><div>Tamara Klingler</div><div>Vorsitzende / Verantwortlich für Wahlkreis Toggenburg & See-Gaster</div>
+<div><a href="mailto:t.klingler@pnos.ch">t.klingler@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/6bf537d2-130b-4ac1-8081-d8387ab26390.jpg" alt="Ignaz Bearth" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">St. Gallen</h4><div>Ignaz Bearth</div><div>Stv. Vorsitzender</div>
+<div><a href="mailto:i.bearth@pnos.ch">i.bearth@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/391c9240-53d9-4ae5-87f9-3f4b12cdfd20.jpg" alt="Severine Thür" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">St. Gallen</h4><div>Severine Thür</div><div>Beisitzerin / Verantwortlich für Wahlkreis Wil</div>
+<div><a href="mailto:st.gallen@pnos.ch">st.gallen@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/e7982f26-5332-4619-8334-fe09c0298696.jpg" alt="Erika Bearth" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">St. Gallen</h4><div>Erika Bearth</div><div>Beisitzerin</div>
+<div><a href="mailto:st.gallen@pnos.ch">st.gallen@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/a0015304-fe32-4e14-b7bb-e2f1eac412b1.jpg" alt="Sabrina Lenz" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">Thurgau</h4><div>Sabrina Lenz</div><div>Vorsitzende</div>
+<div><a href="mailto:thurgau@pnos.ch">thurgau@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/446f8092-5fa5-410a-b8dc-38f89e840fd7.jpg" alt="Jasmin Maeder" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">Zürich</h4><div>Jasmin Maeder</div><div>Vorsitzende</div>
+<div><a href="mailto:zuerich@pnos.ch">zuerich@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/6666074d-ecb2-4a41-b985-e26853cb21df.jpg" alt="Raphael Rotzer" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">Zürich</h4><div>Raphael Rotzer</div><div>Stv. Vorsitzender</div>
+<div><a href="mailto:zuerich@pnos.ch">zuerich@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-body"><h4 class="media-heading">Zentralschweiz</h4>
+<div><a href="mailto:zentralschweiz@pnos.ch">zentralschweiz@pnos.ch</a></div></div>
+</div>
+
+<div class="media">
+<div class="media-left media-top"><img class="media-object" src="images/profiles/afb3a412-59e1-407f-88a8-528f033ed313.jpg" alt="Philippe Brennenstuhl" style="border: 1px solid #e0e0e0"></div>
+<div class="media-body"><h4 class="media-heading">Westschweiz</h4><div>Philippe Brennenstuhl</div><div>Präsident</div>
+<div><a href="mailto:info@partinationalistesuisse.ch">info@partinationalistesuisse.ch</a></div></div>
+</div>                  </div></div>	    </div>	    <div class="col-lg-5">	    </div>    </div>        <footer>			
+            <div class="row">
+                <div class="col-lg-12">
+       	        	<hr/>
+                    <p>&copy; Partei National Orientierter Schweizer (PNOS) 2016</p>
+                </div>
+            </div>
+        </footer>
+    </div>    
+</body>
+
+</html>
